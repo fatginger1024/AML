@@ -28,7 +28,7 @@ Machine Learning in Astronomy.
 - [DESI](https://arxiv.org/pdf/1907.10688.pdf)
 - [LSST](https://arxiv.org/pdf/1211.0310.pdf)
 - [Euclid](https://arxiv.org/pdf/1110.3193.pdf)
-- [SKA]()
+- [SKA](https://www.swissilo.ch/images/ska/CH_Whitepaper_SKA_2019.pdf)
 
 ## Cost
 - [DES](https://www.physicscentral.com/explore/action/camera.cfm#:~:text=With%20a%20price%20tag%20of,supernovae%20intermittently%20over%20five%20years.) $50M
