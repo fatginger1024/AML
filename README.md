@@ -1,5 +1,5 @@
 # AML
-Machine Learning in Astronomy
+Machine Learning in Astronomy.
 
 
 ## Materials
