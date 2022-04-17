@@ -33,6 +33,6 @@ Machine Learning in Astronomy.
 ## Cost
 - [DES](https://www.physicscentral.com/explore/action/camera.cfm#:~:text=With%20a%20price%20tag%20of,supernovae%20intermittently%20over%20five%20years.) $50M
 - [DESI](https://arxiv.org/pdf/1907.10688.pdf) $75M
-- [Euclid](https://www.bbc.com/news/science-environment-18503703#:~:text=The%20cost%20to%20Esa%20of,%C2%A3480m%3B%20%24760m).) $760M
+- [Euclid](https://www.bbc.com/news/science-environment-49773022) $760M
 - [LSST](https://www.nsf.gov/attachments/112487/public/DOE-NSF_Joint_Programs_Craig_Foltz.pdf) $390M
 - [SKA](https://www.skatelescope.org/the-ska-project/) $2.05 Billion
